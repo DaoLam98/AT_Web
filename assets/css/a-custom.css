@@ -1,0 +1,63 @@
+.mh{
+    font-size: 18px;
+  }
+.mh1{
+    color: #666666;
+}
+.content-top{
+    /* background: linear-gradient(to left, #f1f1f1, #466aed)
+    #6d8cf8; */
+}
+.iconmh{
+    background: linear-gradient(-25deg, #01ce92 0%, #58ff83 100%) !important; 
+}
+
+.iconmh1{
+    background: linear-gradient(-25deg, #2899ff 11%, #a9e0ff 100%, #ffc587 100%) !important;
+}
+
+.lvhd{
+    min-height: 676px;
+}
+
+.logo{
+    width: 78px;
+}
+
+.imgleft{
+    height: 600px !important;
+}
+
+.imgleft1{
+    height: 600px !important;
+}
+
+.btncustom{
+    margin-top: 30px;
+}
+
+@media only screen and (min-width: 1025px)and (max-width: 1142px){
+	#menuan{
+        display: inline;
+    }
+    #menu-top{
+        display: none;
+    }
+}
+
+
+@media only screen and (min-width: 1025px) and (max-width: 1293px){
+	#btnmorong{
+        display: none;
+    }
+}
+
+.aaa{
+    width: 10vh !important;
+}
+
+/* highlight active nav*/
+.active {
+    color: rgb(255, 115, 0) !important; 
+    font-weight: 600 !important;
+  }
